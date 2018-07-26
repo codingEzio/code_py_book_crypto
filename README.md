@@ -1,2 +1,5 @@
-# code_py_book_crypto
-Crypto 101 -- intro course on cryptography
+### Info
+
+| Name | Author | Finished | 
+| ---- | ---- | ---- | 
+| Crypto101 | [@lvh](https://twitter.com/lvh) | NO | 
